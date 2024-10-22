@@ -5,3 +5,7 @@ Rewrite of [DEADCELL-GUI](https://github.com/EternityX/DEADCELL-GUI) but much mo
 
 ## Usage
 See [menu.cpp](https://github.com/EternityX/DEADCELL-GUI-2/blob/main/gui/menu.cpp) for an example.
+
+## Preview
+![image](https://github.com/user-attachments/assets/cbd5292f-5a03-4b6b-88bf-d62b51a1024a)
+![image](https://github.com/user-attachments/assets/41601c02-6915-4f0f-a70d-23054fdb705a)
