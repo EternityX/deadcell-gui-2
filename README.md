@@ -14,5 +14,9 @@ See [menu.cpp](https://github.com/EternityX/DEADCELL-GUI-2/blob/main/gui/menu.cp
 
 ## Preview
 **NOTE**: These images are slightly outdated
+
 ![image](https://github.com/user-attachments/assets/cbd5292f-5a03-4b6b-88bf-d62b51a1024a)
 ![image](https://github.com/user-attachments/assets/41601c02-6915-4f0f-a70d-23054fdb705a)
+
+## Thanks
+- czapek for a lot of help with layout and shader code
