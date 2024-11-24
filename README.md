@@ -14,7 +14,13 @@ Rewrite of [DEADCELL-GUI](https://github.com/EternityX/DEADCELL-GUI) but much mo
 - Blur shader for title bar (DX11 only)
 
 ## Usage
-See [menu.cpp](https://github.com/EternityX/DEADCELL-GUI-2/blob/main/gui/menu.cpp) for an example.
+See [menu.cpp](https://github.com/EternityX/DEADCELL-GUI-2/blob/main/gui/menu.cpp) for an example. ImGui must be using the shadows branch.
+
+## Todo
+- Working example and build process
+- Cut down on a lot of boilerplate code related to event handling in controls
+- Additional controls
+- General cleanup
 
 ## Preview
 Images are slightly outdated but the general design is the same
