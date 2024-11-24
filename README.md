@@ -8,7 +8,7 @@ Rewrite of [DEADCELL-GUI](https://github.com/EternityX/DEADCELL-GUI) but much mo
 
 ## Features
 - Event-driven
-- Flex-box like layout model
+- Flex-box-like layout model (using Meta's Yoga library)
 - Support for multiple windows
 - Modal/popout windows
 - Blur shader for title bar (DX11 only)
