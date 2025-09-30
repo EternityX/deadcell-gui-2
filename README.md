@@ -1,7 +1,6 @@
 # DEADCELL-GUI-2
-### NOTICE I will set up a working example and build process when I get the time.
 
----
+I will not provide any support for this. This is a learning resource.
 
 ### Event-driven UI library for gamehacking. ImGui handles the platform and rendering independent code.
 Rewrite of [DEADCELL-GUI](https://github.com/EternityX/DEADCELL-GUI) but much more feature complete. This is purely GUI code, nothing else.
@@ -16,7 +15,7 @@ Rewrite of [DEADCELL-GUI](https://github.com/EternityX/DEADCELL-GUI) but much mo
 ## Usage
 See [menu.cpp](https://github.com/EternityX/DEADCELL-GUI-2/blob/main/gui/menu.cpp) for an example. ImGui must be using the shadows branch.
 
-## Todo
+## Todo (will probably never happen)
 - Working example and build process
 - Cut down on a lot of boilerplate code related to event handling in controls
 - Additional controls
